@@ -103,3 +103,68 @@ main{
     font-size: 20px;
     color: #474747;
 }
+.sec2-title{
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+}
+.skills{
+    display: flex;
+    gap: 10px;
+    
+}
+.sec1-title{
+    margin-top: 100px;
+    margin-bottom: 200px;
+    padding: 30px;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+
+}
+.s-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.des-title{
+    color: #757575;
+}
+.skill{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+/* resumi style */
+
+.resumi-content{
+
+    display: flex;
+}
+.res1{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+
+}
+.reee{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+
+}
+.sssss{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+
+}
+.dssss{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+
+}
+
